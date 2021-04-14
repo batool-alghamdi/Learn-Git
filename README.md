@@ -5,7 +5,7 @@
 
 <h2 align="right">الوصف</h2>
 <p align="right" dir="rtl">
-<div dir = rtl >  داخل ال repository يوجد تلخيص لمفاهيم git للدورة التعليمية git 101 الموجودة على منصة طويق التعليمية   </dir > 
+<div dir = rtl >  داخل ال repository يوجد تلخيص لمفاهيم git التي تهيئك لتعلم git بشكل بسيط و  و مفهوم للمبتدئين.      </dir > 
 
 [git 101 ](https://tuwaiq.codes/courses/32a55d39-77ca-4121-ba14-b861dd5715e5/view)
 
@@ -18,7 +18,7 @@
 2. مفهوم أنظمة التحكم بالنسخ VCS
 3. أنواع أنظمة التحكم بالنسخ VCS
 
-- 2 . تحميل الأدوات
+ 2 . تحميل الأدوات
 
 1. تنزيل Git على نظام Windows
 2. تنزيل Git على نظام MacOS
